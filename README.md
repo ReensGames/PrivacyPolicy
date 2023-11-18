@@ -3,11 +3,10 @@ The official privacy policy of “Reen’s Games” studio.
 # Privacy Policy
 Our studio Reen's Games developed the Space Shooter app as an ad-supported app. This SERVICE is provided free of charge by Reen's Games and is intended to be used "as is". This page is used to inform visitors of my policies regarding the collection, use and disclosure of Personal Information if anyone decides to use my Service.
 # Collection and use of information
-We do not use your personal information for the purpose of fraud or transfer it to anyone. We only review your information through third parties and use it only to improve our service. Third parties may collect your personally identifiable information. For example, the engine on which our game is developed is called “GDevelop”. It already has an internal authentication system for saving your data in the cloud. You can save your data by writing your email and password. Read more about the privacy and data collection policies of third parties in the list below:
+We do not use your personal information for the purpose of fraud or transfer it to anyone. We only review your information through third parties and use it only to improve our service. Third parties may collect your personally identifiable information. Read more about the privacy and data collection policies of third parties in the list below:
  * Google Play Services
  * Google Analytics
  * AdMob
- * GDevelop
 # Safety
 I value your trust in providing us with your Personal Information, which is why we strive to use commercially acceptable means to protect it. But remember that no method of transmission over the Internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 # Links to other sites
